@@ -1,0 +1,14 @@
+Thomas Walkup 28 9.6 3.6 5.5 1 2.7 12.7 
+KC Rivers 18 9.3 1.5 1.1 0.9 0.4 6.7
+Lukas Lekavicius 27 10.5 1.3 2.8 0.5 1.5 10.2
+Nigel Hayes 28 6.3 3.5 1 0.4 0.5 6.6
+Erikas Venskus 2 0 0.5 0 0 0 1
+Jankunas Paulius 27 3 3.1 0.8 0.4 0.5 4.9
+Karolis Lukosiunas 6 0.5 1 0.5 0 0 0.8
+Arturas Milaknis 28 7.4 1.5 0.6 0.9 0.7 5.7
+Martinas Geben 20 3.5 1.9 0.4 0.3 0.8 4
+Rokas Jokubaitis 10 2.2 0.5 1.3 0.3 1 2
+Zach Leday 28 11.8 4.7 1 0.5 1.7 13.2
+Jock Landale 25 11 4.4 1 0.5 1.2 10.4
+Marius Grigonis 10 11.5 2.6 2 0.5 1.3 11
+Edgaras Ulanovas 28 8.3 3.3 2 0.4 1.3 9.7

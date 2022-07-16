@@ -1,0 +1,15 @@
+Brandon Davies 28 9.6 3.9 1.6 1.1 2 10.3
+Pau Ribas 12 1.6 1.2 1.5 0.3 0.7 2.2
+Adam Hanga 28 5.8 2.9 1.4 0.7 1.5 7.9
+Rolands Smits 16 3.1 1.8 0.3 0.1 0.4 2.2
+Thomas Heurtel 3 5.3 2.3 4.7 0.3 0.7 7.3
+Artem Pustovyi 1 0 1 0 0 1 -1
+Pierre Oriola 28 3.8 2.1 0.6 0.3 0.5 4.4
+Alex Abrines 25 5.2 2.1 0.4 0.6 0.2 4.9
+Cory Higgins 23 12.4 2.1 2.7 0.7 1.8 11.7
+Malcolm Delaney 26 10.2 2.2 4.8 0.7 2.3 11
+Kyle Kuric 27 9.4 2.1 0.9 0.7 0.7 8.9
+Victor Claver 17 5.7 3 1.6 0.8 0.4 7.9
+Leandro Bolmaro 6 1.8 0.8 2.3 1 1 1
+Nikola Mirotic 28 19 6.9 1.6 1.1 1.9 22.5
+Ante Tomic 28 5.7 4 1 0.4 1.4 7.5

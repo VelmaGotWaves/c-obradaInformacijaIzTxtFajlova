@@ -1,0 +1,15 @@
+Jordan Taylor 26 8 1.5 3.8 0.5 1.5 7
+Tonye Jekiri 27 8.7 7.5 1.3 0.8 1.1 12.8
+Charles Kahudi 23 7 2.9 0.8 0.5 0.7 6.3
+Theo Maledon 22 7.4 1.8 3.1 0.3 1.9 6.6
+Berry Davion 3 4 0.7 1.3 0 1 0
+Rihards Lomazs 27 4.9 0.8 0.8 0.3 0.6 3.2
+Charles Galliou 18 0.4 0.6 0.2 0.2 0.1 0.3
+Amine Noua 25 5 2 0.3 0.3 0.8 3.2
+Livio Jean_Charles 27 9.1 3.7 0.6 0.4 1.1 8.9
+Antoine Diot 23 5.3 1.1 2.8 0.7 1.8 5
+Ismael Bako 24 3.8 2.1 0.3 0.3 0.3 4.8
+David Lighty 27 9.8 2.6 1.7 0.9 1.1 9.5
+Guerschon Yabusele 2 8 3.5 0 2.5 2.5 6.5
+Matthew Strazel 16 4 0.7 1.6 0.2 1.2  2.3
+Adreian Payne 13 10.5 3.9 0.8 0.5 0.9 11.5

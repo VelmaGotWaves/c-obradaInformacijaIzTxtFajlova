@@ -1,0 +1,16 @@
+Quino Colom 26 7.3 1.5 4.2 0.7 1.8 9.1
+Vanja Marinkovic 27 6.3 1 0.4 0.4 1 3.9
+Jordan Loyd 18 11.1 1.9 2.4 0.7 1.8 8.8
+Maurice Ndour 26 6.3 2.4 0.4 0.9 0.7 7
+Alberto Abalde 23 7.8 4 1.7 0.5 0.8 8.9
+Louis Labeyrie 27 5.1 4.6 0.7 0.5 0.6 8.7
+Sam Van Rossom 14 6.9 2.1 4.6 0.5 1.4 9
+Mike Tobey 21 8.1 4.3 0.6 0.5 0.8 8.7
+Brock Motum 20 6.2 1.5 0.5 0.4 0.6 5.3
+Bojan Dubljevic 26 14.2 6.5 1.7 0.6 1.9 18
+Guillem Vives 20 5.7 1.4 2 0.8 1.5 4.3
+Fernando San_Emeterio 24 7.3 1.8 1.6 0.4 0.8 8.5
+Joan Sastre 12 4.7 1.3 1.1 0.8 0.8 5.6
+Millan Jimenez 1 0 0 0 0 0 0
+Aaron Doornekamp 28 4.9 2.3 0.9 0.4 0.4 4.9
+Guillem Ferrando 1 0 1 1 0 0 -2

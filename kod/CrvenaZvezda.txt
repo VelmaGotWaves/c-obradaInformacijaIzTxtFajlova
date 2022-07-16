@@ -1,0 +1,16 @@
+Kevin Punter 23 11.6 1.5 1.2 0.5 0.7 8.4
+Lorenzo Brown 27 12.3 3.3 4.6 1.1 2.8 13
+Stratos Perperoglou 13 7.8 2.6 0.5 0.5 1.2 5.2
+Dejan Davidovic 24 6.2 2.9 0.6 0.8 0.8 7.3
+Branko Lazic 25 3.9 1.3 0.6 0.6 0.6 1.8
+Billy Baron 26 11.6 2.7 2.2 0.8 1.2 11
+Ognjen Dobric 22 5.1 1.7 0.9 0.8 0.5 5.3
+James Gist 25 7 4.4 1.3 0.7 1.5 6.7
+Kalin Lucas 3 1.3 0.3 3 0.3 0.7 2.3
+Marko Jagodic_Kuridza 8 3.9 2.9 1 0 1 4.3
+Charles Jenkins 23 3.4 2.2 1.8 0.8 0.9 3.4
+Borisa Simanic 20 4 1.2 0.6 0.3 0.7 3.2
+Nikola Jovanovic 6 2 1.8 0.2 0 0.5 1
+Michael Ojo 22 4.1 3 0.3 0.8 1.3 5
+Vladimir Stimac 21 8.6 4.8 0.8 0.3 1.3 10.8
+

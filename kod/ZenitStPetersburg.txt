@@ -1,0 +1,16 @@
+Colton Iverson 26 5.6 4.6 1 0.3 1.4 8.3
+Andrew Albicy 27 6.6 1.6 3.3 0.9 1.6 7.9
+Anton Ponkrashov 22 2.5 1.4 1 0.4 0.6 1.5 
+Austin Hollins 27 10.4 2.1 1.5 1.4 1.2 7.9 
+Will Thomas 27 10.3 3.9 1.4 1 0.5 13.1 
+Sergei Balashov 3 1.3 0.7 0 0 0 0.7
+Alex Renfroe 22 6 1.7 4.6 0.8 2 7
+Dimitry Khvostov 18 3.6 0.4 2.7 0.2 1.1 2.8
+Anton Pushkov 17 1.9 1 0.3 0.2 0.8 0.6 
+Konstantin Shevchuk 1 0 0 0 0 0 0
+Vladislav Trushkin 24 3.4 1.3 0.3 0.1 0.2 1.6 
+Evgeny Voronov 18 5.9 1.1 1 0.5 1.2 2.2
+Andrey Zubkov 12 4.1 2.3 0.9 0.2 0.8 3.8
+Tim Abromaitis 27 7.5 3.7 1 0.5 0.4 9
+Mateusz Ponitka 18 9.1 4.6 1.6 0.8 1.8 12.2 
+Gustavo Ayon 26 12.5 5.3 2.2 1.3 2.4 14.3
